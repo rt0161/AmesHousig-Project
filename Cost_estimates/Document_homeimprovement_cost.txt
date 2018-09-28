@@ -1,0 +1,32 @@
+according to home advisor.com 2018 report 
+nation-wide average projects of home imporvement cost:
+                                                               related feature column
+(1) Install or replace asphalt shingle roofing  $7280
+(2) remodel bathroom                            $9724
+(3) Repair asphalt shingle roofing              $572
+(4) Service or repair an AC                     $261
+(5) Paint or stain home exterior                $2771
+(6) Remodel a kitchen                           $22145
+(7) Interior painting                           $1744
+(8) Install landscape                           $2770
+(9) Build Deck or Porch                         $7086
+(10) Install toilet                             $370
+(11) new kitchen countertop                     $3232
+(12) Reface cabinets                            $6692
+(13) add new fulll bath                         $20068
+(14) Install patio or pathway                   $2937
+(15) Install new AC                             $5233
+(16) Install Garage Door                        $1061
+(17) Install electric wiring or panel           $1648
+
+From remodeling impact 2017(NARI, National Association of Remodeler industry):
+
+(18) New master suite/owner suite              $125000
+(19) Basement convert to living area           $40000
+(20) Attic convert to living area              $75000
+(21) renovate closet                           $3750
+(22) New wood floor                            $5500
+(23) Refinish hardwood floor                   $3000
+(24) New Vynl siding  (Exterior)               $13350
+(25) New Fiber cement siding (Exterior)        $18000
+(26) New windows                               $18975
