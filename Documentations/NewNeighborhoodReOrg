@@ -1,0 +1,29 @@
+New Neighborhood clustering
+                                                      new code
+0+8 Blmngtn + Gilbert                                   0
+1+6+12 Bluste + Crawfor + Landmark                      1
+2+24+9+27 BrDale + Somberst + Greens + Veenker          2
+4+22 ClearCr + Sawyer                                   4
+10+26 GrnHill + Timberland                              7
+13+14+11 MeadowV + Mitchel + IDOTRR                     8
+16+17 NPkVill + NAmes                                  10
+
+
+Neighborhood
+{'Blmngtn+Gilbert': 0, 
+'Blueste+Edwards+Landmark': 1, 
+'BrDale+Somberst+Greens+Veenker': 2, 
+'BrkSide': 3, 
+'ClearCr+Sawyer': 4, 
+'CollgCr': 5,
+'Edwards': 6, 
+'GrnHill+Timber': 7, 
+'IDOTRR+MeadowV+Mitchel': 8,  
+'NAmes+NPkVill': 9, 
+'NWAmes': 10, 
+'NoRidge': 11, 
+'NridgHt': 12, 
+'OldTown': 13, 
+'SWISU': 14, 
+'SawyerW': 15,
+'StoneBr': 16}
